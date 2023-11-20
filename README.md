@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to the VMware Workstation Experiments Repository! This repository contains experiments, configurations, and scripts related to VMware Workstation. Whether you're a beginner exploring virtualization or an experienced user looking for advanced configurations, you'll find useful content here.
+Welcome to the VMware Workstation Experiments Repository! This repository contains experiments, configurations, and scripts related to VMware Workstation. Whether you're a beginner exploring virtualization or an experienced user looking for advanced configurations, you'll find useful content here. You will
 
 ## Introduction
 
